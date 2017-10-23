@@ -1,5 +1,32 @@
 /*! v1.0.0 MIT License | https://github.com/xycd/HTML5boilerplate */
+/* Tags:light, white, one-column, two-columns, right-sidebar, fluid-layout, custom-background, custom-header, custom-menu, editor-style,
+featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post,
+theme-options, translation-ready */
+/*-----------------------------------------------------------------------------------
+1.CSS Reset
+2.Basic Typography
 
+3.Basic Document Structure and Styling
+  3.1.Tables, Forms / Inputs and Text Area
+  3.2.Content Elements
+  3.3.Navigation Menu
+  3.4.Basic Structure And Containers (Containers, Sidebars, Footer etc.)
+  3.5.WordPress Default Elements
+  3.6.Comments
+
+4.Theme Colors & Stylings
+  4.1.Navigation
+  4.2.Sidebars
+  4.3.Footer
+  4.5.Blog
+  4.6.Services Boxes
+  4.7.Sliders (Content Slider, Thumbnails Slider, Nivo Slider)
+  4.8.Quick Gallery
+
+5.Widgets and Page Templates
+6.Others
+7.Responsive And Media Queries
+8.Updates
 /*
  * comments.
  * comments,
@@ -7,28 +34,29 @@
  */
 
 /* ==========================================================================
-   Base styles
+    1. CSS Reset
+   ========================================================================== */
+
+/* ==========================================================================
+    2. Basic Typography
    ========================================================================== */
 
 
 
-/*
- * comments.
- * comments,
- * comments.
- */
+
+
+
+
 
 
 /* ==========================================================================
-   Browser Upgrade Prompt
+  3. Basic Document Structure and Stylings
    ========================================================================== */
-
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
+/* ----------- 3.1 Tables, Forms / Inputs and Text Area --------------- */
+/* --- form focus --- */
+/* ------ Tables -------- */
+/* -------------------- 3.2 Content Elements -------------------- */
+/* Buttons */
 
 
 /* ==========================================================================
